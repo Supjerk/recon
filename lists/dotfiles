@@ -15,6 +15,7 @@
 /.env
 /.git/config
 /.git/HEAD
+/.git/refs/heads/master
 /.gitconfig
 /.gitignore
 /.gitlab-ci.yml
