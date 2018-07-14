@@ -31,6 +31,7 @@
 /.idea/dataSources.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+/.idea/WebServers.xml
 /.idea/workspace.xml
 /.jestrc
 /.jshintrc
@@ -42,6 +43,7 @@
 /.netrc
 /.npmignore
 /.npmrc
+/.php_cs.cache
 /.pgpass
 /.profile
 /.psql_history
@@ -73,6 +75,7 @@
 /_admin/operations.aspx
 /_vti_bin/admin.asmx
 /admin
+/app/etc/local.xml
 /autoconfig
 /aws.yml
 /backup
@@ -97,10 +100,14 @@
 /config.gypi
 /config.json
 /configprops
+/config/database.yml
+/config/databases.yml
+/core
 /CVS/Entries
 /CVS/Root
 /cvsroot/CVSROOT
 /cvsroot/CVSROOT/val-tags
+/DEADJOE
 /debug
 /debug.asp
 /debug.aspx
@@ -119,6 +126,9 @@
 /examples/jsp/num/numguess.jsp
 /examples/servlet/HelloWorldExample
 /features
+/filezilla.xml
+/sitemanager.xml
+/FileZilla.xml
 /flex
 /Gemfile
 /Gemfile.lock
@@ -129,6 +139,7 @@
 /Gulpfile
 /Gulpfile.js
 /gulpfile.js
+/hostkey
 /index.asp
 /index.aspx
 /index.jsp
@@ -148,7 +159,9 @@
 /Jenkinsfile
 /jmx-console/HtmlAdaptor
 /karma.conf.js
+/key.pem
 /keys.yml
+/lfm.php
 /license
 /LICENSE
 /license.md
@@ -158,6 +171,7 @@
 /Makefile
 /metrics
 /mkdocs.yml
+/myserver.key
 /nginx_status
 /npm-debug.log
 /npm-shrinkwrap.json
@@ -167,6 +181,7 @@
 /phpinfo.php
 /phptest.php
 /phpunit.xml
+/privatekey.key
 /readme
 /README
 /readme.html
@@ -181,9 +196,12 @@
 /routes
 /s3.yml
 /s3.yml.swp
+/server.key
 /server-info
 /server-status
 /serverinfo
+/sites/default/private/files/backup_migrate/scheduled/test.txt
+/sftp-config.json
 /tags
 /terraform.tfstate
 /terraform.tfstate.backup
@@ -228,7 +246,15 @@
 /web.config
 /web.xml
 /webpack.config.js
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/WinSCP.ini
+/winscp.ini
 /wp-config.php
+/WS_FTP.ini
+/ws_ftp.ini
+/WS_FTP.INI
+/wwwkey
+/xaa
 /yarn-debug.log
 /yarn-error.log
 /yarn.lock
